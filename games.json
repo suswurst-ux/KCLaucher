@@ -1,0 +1,75 @@
+{
+  "zipPasswordCandidates": [
+    "mein-standard-passwort",
+    "launcher123",
+    "nurbeispiel",
+    "online-fix.me"
+  ],
+  "games": [
+    {
+      "id": "123",
+      "title": "test",
+      "description": "rapeing",
+      "version": "123.2222.1",
+      "provider": "pixeldrain",
+      "installFolderName": "test",
+      "source": {
+        "fileName": "Spiel.zip",
+        "url": "https://pixeldrain.com/u/oUqPTc99"
+      },
+      "launch": {
+        "executable": "kaching.exe"
+      },
+      "passwordCandidates": [
+        "online-fix.me"
+      ]
+    },
+    {
+      "id": "bobo-cafe-simulator",
+      "title": "Bobo Cafe Simulator",
+      "description": "what the helli",
+      "version": "1.0.0",
+      "provider": "pixeldrain",
+      "installFolderName": "Bobo Cafe Simulator",
+      "source": {
+        "fileName": "Spiel.zip",
+        "url": "https://pixeldrain.com/u/GfzCTGkS"
+      },
+      "launch": {
+        "executable": "boba-cafe"
+      }
+    },
+    {
+      "id": "bopl-battle",
+      "title": "Bopl Battle",
+      "description": "kacki",
+      "version": "1.0.0",
+      "provider": "pixeldrain",
+      "installFolderName": "Bopl Battle",
+      "source": {
+        "fileName": "Spiel.zip",
+        "url": "https://pixeldrain.com/u/BvCPDiTk"
+      },
+      "launch": {
+        "executable": "booooopel"
+      }
+    },
+    {
+      "id": "dub-together",
+      "title": "Dub Together",
+      "description": "",
+      "version": "1.0.0",
+      "provider": "gofile",
+      "installFolderName": "Dub Together",
+      "source": {
+        "shareUrl": "https://gofile.io/d/2jK3OGHF"
+      },
+      "launch": {
+        "executable": "dubbios dubbing and raping"
+      },
+      "passwordCandidates": [
+        "online-fix.me"
+      ]
+    }
+  ]
+}
